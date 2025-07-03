@@ -1,0 +1,741 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\manageperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\manageperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\manageperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\manageperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\progressemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\progressemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\congviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\congviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\xemcongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\xemcongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\xemcongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\xemcongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\checkmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\checkmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\ttcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ttcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\ttcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ttcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\notiusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\cudan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\cudan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\cudan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\cudan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\cudan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\cudan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\.nuget\\packages\\adgv\\0.1.0.10\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 14 (1)\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\winformsapp1\\progressemail.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\progressemail.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_cnpm\\nh\u00F3m 14\\nh\u00F3m 14\\winformsapp1\\winformsapp1\\ttcn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5BF56A-46BE-4A53-89C4-B3A71E002F37}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ttcn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagePerson.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ManagePerson.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ManagePerson.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ManagePerson.cs*",
+              "RelativeToolTip": "WinFormsApp1\\ManagePerson.cs*",
+              "ViewState": "AgIAABwBAAAAAAAAAAAAwCYBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forgotPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\forgotPassword.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\forgotPassword.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\forgotPassword.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\forgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagePerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ManagePerson.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ManagePerson.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ManagePerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ManagePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "modify.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\modify.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\modify.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\modify.cs",
+              "RelativeToolTip": "WinFormsApp1\\modify.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwGYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sendEmail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\sendEmail.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\sendEmail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\sendEmail.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\sendEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgressEmail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ProgressEmail.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ProgressEmail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ProgressEmail.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ProgressEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\mainPage.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\mainPage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\mainPage.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\mainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nhanvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\nhanvien.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\nhanvien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\nhanvien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\connection.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\connection.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\connection.cs",
+              "RelativeToolTip": "WinFormsApp1\\connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "congviec.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\congviec.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\congviec.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\congviec.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\congviec.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sendEmail.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\sendEmail.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\sendEmail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\sendEmail.cs",
+              "RelativeToolTip": "WinFormsApp1\\sendEmail.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwKAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\nhanvien.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\nhanvien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\nhanvien.cs",
+              "RelativeToolTip": "WinFormsApp1\\nhanvien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mainPage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\mainPage.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\mainPage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\mainPage.cs",
+              "RelativeToolTip": "WinFormsApp1\\mainPage.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAJcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "XemCongViec.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\XemCongViec.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\XemCongViec.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\XemCongViec.cs",
+              "RelativeToolTip": "WinFormsApp1\\XemCongViec.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XemCongViec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\XemCongViec.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\XemCongViec.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\XemCongViec.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\XemCongViec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "changePass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\changePass.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\changePass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\changePass.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\changePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "checkMail.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\checkMail.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\checkMail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\checkMail.cs",
+              "RelativeToolTip": "WinFormsApp1\\checkMail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "infor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\infor.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\infor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\infor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\infor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "signIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\signIn.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\signIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\signIn.cs",
+              "RelativeToolTip": "WinFormsApp1\\signIn.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAWwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "signIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\signIn.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\signIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\signIn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\signIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "infor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\infor.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\infor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\infor.cs",
+              "RelativeToolTip": "WinFormsApp1\\infor.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "mainPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\mainPage.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\mainPage.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\mainPage.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\mainPage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TTCN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\TTCN.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\TTCN.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\TTCN.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\TTCN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T13:56:12.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "changePass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\changePass.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\changePass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\changePass.cs",
+              "RelativeToolTip": "WinFormsApp1\\changePass.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswLcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TTCN.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\TTCN.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\TTCN.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\TTCN.cs",
+              "RelativeToolTip": "WinFormsApp1\\TTCN.cs",
+              "ViewState": "AQIAABoCAAAAAAAAAAAcwDECAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "forgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\forgotPassword.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\forgotPassword.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\forgotPassword.cs",
+              "RelativeToolTip": "WinFormsApp1\\forgotPassword.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAawGgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NotiUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\NotiUserControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\NotiUserControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\NotiUserControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\NotiUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-13T13:56:12.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Noti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Noti.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Noti.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Noti.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Noti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Person.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Person.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Person.cs",
+              "RelativeToolTip": "WinFormsApp1\\Person.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAA2wC8AAAAQAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NotiUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\NotiUserControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\NotiUserControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\NotiUserControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\NotiUserControl.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgv1YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Noti.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Noti.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Noti.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Noti.cs",
+              "RelativeToolTip": "WinFormsApp1\\Noti.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "cudan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\cudan.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\cudan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\cudan.cs",
+              "RelativeToolTip": "WinFormsApp1\\cudan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "cudan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\cudan.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\cudan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\cudan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\cudan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "congviec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\congviec.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\congviec.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\congviec.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CNPM(TH)\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\congviec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-13T13:56:12.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "congviec.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\congviec.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\congviec.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\congviec.cs",
+              "RelativeToolTip": "WinFormsApp1\\congviec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "forgotPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\forgotPassword.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\forgotPassword.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\forgotPassword.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\forgotPassword.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA0wAIBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "cudan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\cudan.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\cudan.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\cudan.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\cudan.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "nhanvien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\nhanvien.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\nhanvien.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\nhanvien.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\nhanvien.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\.nuget\\packages\\adgv\\0.1.0.10\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\adgv\\0.1.0.10\\readme.txt",
+              "ToolTip": "C:\\Users\\ASUS\\.nuget\\packages\\adgv\\0.1.0.10\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\adgv\\0.1.0.10\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-11T19:50:26.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 14 (1)\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Nh\u00F3m 14 (1)\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Nh\u00F3m 14 (1)\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Nh\u00F3m 14 (1)\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:39:37.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProgressEmail.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ProgressEmail.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ProgressEmail.resx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\ProgressEmail.resx",
+              "RelativeToolTip": "WinFormsApp1\\ProgressEmail.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-13T13:56:12.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TTCN.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\TTCN.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\TTCN.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C\u00E1c m\u00F4n \u0111\u00E3 h\u1ECDc xong\\14_CNPM\\Nh\u00F3m 14\\Nh\u00F3m 14\\WinFormsApp1\\WinFormsApp1\\TTCN.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\TTCN.Designer.cs",
+              "ViewState": "AQIAAE0CAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:12.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

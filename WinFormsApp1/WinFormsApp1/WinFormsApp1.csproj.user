@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="forgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="changePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="infor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Noti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotiUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="sendEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProgressEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TTCN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XemCongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
